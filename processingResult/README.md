@@ -1,0 +1,4 @@
+# ThaiSentenceSegmention
+ThaiSentenceSegmention
+
+存放执行结果的文件夹
